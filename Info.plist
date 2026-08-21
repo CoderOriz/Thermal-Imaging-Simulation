@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>ThermalDetectionApp</string>
+    <key>CFBundleDisplayName</key>
+    <string>Thermal Detection App</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.thermal.detection</string>
+    <key>CFBundleVersion</key>
+    <string>1.0.0</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleExecutable</key>
+    <string>ThermalDetectionApp</string>
+    <key>CFBundleIconFile</key>
+    <string>icon.icns</string>
+    <key>NSCameraUsageDescription</key>
+    <string>This app needs camera access to capture video for thermal-style detection and visualization.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>This app does not use the microphone.</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>10.15</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleSignature</key>
+    <string>THRM</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+</dict>
+</plist>
